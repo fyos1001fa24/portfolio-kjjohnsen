@@ -7,6 +7,6 @@ App 1 - Basic One from the first lecture
 
 App 2 - Basic and Simple Watch Apps
 
-![basic_watch](https://github.com/user-attachments/assets/1f0f565d-01b0-457d-a950-259a49d96237)
+![download](https://github.com/user-attachments/assets/871c8bcd-be33-4462-bef0-bb5a9b4f197b)
 ![custom_watch](https://github.com/user-attachments/assets/bbaac0e9-ce83-4f93-a86f-fe4f20291bfe)
 
