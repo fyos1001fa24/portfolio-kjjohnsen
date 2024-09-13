@@ -13,5 +13,5 @@ App 2 - Basic and Simple Watch Apps
 App 3 - Watch with 3 Windows that can be swiped.  Also shows images and has button interaction.
 
 ![www_home](https://github.com/user-attachments/assets/23ce0d0b-5d8f-4ffa-9f4c-cd37bb7f80f1)
-![www_bt](https://github.com/user-attachments/assets/beacd88a-ec0a-4cf2-85dd-004a4c0bb781)
+![download (1)](https://github.com/user-attachments/assets/5e416133-0768-4694-b065-3ac29daa9bc6)
 ![www_qr](https://github.com/user-attachments/assets/6c8e0675-6f12-498e-b544-f0c60937004e)
